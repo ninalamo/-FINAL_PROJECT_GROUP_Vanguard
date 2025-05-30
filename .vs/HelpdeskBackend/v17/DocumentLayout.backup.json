@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\services\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:services\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\models\\remark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:models\\remark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\data\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:data\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\controllers\\remarkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:controllers\\remarkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\middleware\\roleauthorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:middleware\\roleauthorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dale pantano\\Downloads\\HelpdeskBackend_Fixed\\Migrations\\MigrationsPlaceholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\helpdeskbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:helpdeskbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|c:\\users\\dale pantano\\downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\migrations\\20250522191123_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC9CEB8-8B9E-4A29-9C7D-1E820CA7DF3B}|HelpdeskBackend.csproj|solutionrelative:migrations\\20250522191123_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.Managed.Core.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ViewState": "AgIAALEAAAAAAAAAAAAwwL4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-24T08:01:10.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:34:07.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Services\\ITicketService.cs",
+              "RelativeDocumentMoniker": "Services\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Services\\ITicketService.cs",
+              "RelativeToolTip": "Services\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:56:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250522191123_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Migrations\\20250522191123_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250522191123_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Migrations\\20250522191123_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250522191123_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:11:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Services\\TicketService.cs",
+              "RelativeToolTip": "Services\\TicketService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:14:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketDto.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\DTOs\\TicketDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TicketDto.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\DTOs\\TicketDto.cs",
+              "RelativeToolTip": "DTOs\\TicketDto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:07:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleAuthorizationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Middleware\\RoleAuthorizationMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\RoleAuthorizationMiddleware.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Middleware\\RoleAuthorizationMiddleware.cs",
+              "RelativeToolTip": "Middleware\\RoleAuthorizationMiddleware.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:07:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:07:31.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:07:03.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwGkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:07:01.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RemarksController.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Controllers\\RemarksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RemarksController.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Controllers\\RemarksController.cs",
+              "RelativeToolTip": "Controllers\\RemarksController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:06:59.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:05:36.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:03:22.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:21:32.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:19:46.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:02:41.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T14:47:14.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MigrationsPlaceholder.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\HelpdeskBackend_Fixed\\Migrations\\MigrationsPlaceholder.cs",
+              "RelativeDocumentMoniker": "..\\..\\HelpdeskBackend_Fixed\\Migrations\\MigrationsPlaceholder.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\HelpdeskBackend_Fixed\\Migrations\\MigrationsPlaceholder.cs",
+              "RelativeToolTip": "..\\..\\HelpdeskBackend_Fixed\\Migrations\\MigrationsPlaceholder.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:15:17.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:36:27.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:36:44.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HelpdeskBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\HelpdeskBackend.csproj",
+              "RelativeDocumentMoniker": "HelpdeskBackend.csproj",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\HelpdeskBackend.csproj",
+              "RelativeToolTip": "HelpdeskBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T14:44:41.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Remark.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Models\\Remark.cs",
+              "RelativeDocumentMoniker": "Models\\Remark.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Models\\Remark.cs",
+              "RelativeToolTip": "Models\\Remark.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:35:51.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:40:26.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SeedService.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Data\\SeedService.cs",
+              "RelativeDocumentMoniker": "Data\\SeedService.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\patched_backend_with_update_endpoint\\final_backend_access_control_fixed_verified\\Data\\SeedService.cs",
+              "RelativeToolTip": "Data\\SeedService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:38:38.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
