@@ -23,36 +23,43 @@ public class AppDbContext : DbContext
         modelBuilder.Entity<User>()
             .HasOne(u => u.Department)
             .WithMany(d => d.Users)
-            .HasForeignKey(u => u.DepartmentId);
+            .HasForeignKey(u => u.DepartmentId)
+            .OnDelete(DeleteBehavior.Restrict); // Set DepartmentId to null if department is deleted
 
         modelBuilder.Entity<User>()
             .HasOne(u => u.Role) // ? new
             .WithMany()
-            .HasForeignKey(u => u.RoleId);
+            .HasForeignKey(u => u.RoleId)
+            .OnDelete(DeleteBehavior.Restrict); // Prevent deletion of role if users exist
 
         modelBuilder.Entity<Ticket>()
             .HasOne(t => t.Creator)
             .WithMany(u => u.CreatedTickets)
-            .HasForeignKey(t => t.CreatedBy);
+            .HasForeignKey(t => t.CreatedBy)
+            .OnDelete(DeleteBehavior.NoAction); // Prevent deletion of user if they created tickets
 
         modelBuilder.Entity<Ticket>()
             .HasOne(t => t.Assignee)
             .WithMany(u => u.AssignedTickets)
-            .HasForeignKey(t => t.AssignedTo);
+            .HasForeignKey(t => t.AssignedTo)
+            .OnDelete(DeleteBehavior.NoAction); // Prevent deletion of user if they are assigned tickets
 
         modelBuilder.Entity<Ticket>()
             .HasOne(t => t.Department)
             .WithMany(d => d.Tickets)
-            .HasForeignKey(t => t.DepartmentId);
+            .HasForeignKey(t => t.DepartmentId)
+            .OnDelete(DeleteBehavior.Cascade); // Delete tickets if department is deleted
 
         modelBuilder.Entity<Remark>()
             .HasOne(r => r.User)
             .WithMany(u => u.Remarks)
-            .HasForeignKey(r => r.UserId);
+            .HasForeignKey(r => r.UserId)
+            .OnDelete(DeleteBehavior.NoAction); // Delete remarks if user is deleted
 
         modelBuilder.Entity<Remark>()
             .HasOne(r => r.Ticket)
             .WithMany(t => t.Remarks)
-            .HasForeignKey(r => r.TicketId);
+            .HasForeignKey(r => r.TicketId)
+            .OnDelete(DeleteBehavior.Cascade); // Delete remarks if ticket is deleted
     }
 }
